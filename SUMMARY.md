@@ -2,13 +2,13 @@
 
 * [아임웹 API 가이드](README.md)
   * [본 문서에 관하여](master/undefined.md)
+  * [문서 정보](master/documents\_history.md)
 * [아임웹 API 소개](api.md)
 
 ## 시작하기 <a href="#getstarted" id="getstarted"></a>
 
 * [준비사항](getstarted/ticker.md)
 * [주의 및 제한사항](getstarted/cautions.md)
-* [문서 정보](getstarted/documents\_history.md)
 * [액세스 토큰 발급받기](getstarted/token.md)
 * [API 호출 예제](getstarted/getexamples.md)
 * [API 응답 코드](getstarted/response\_code.md)
