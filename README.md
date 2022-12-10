@@ -1,6 +1,7 @@
 ---
 description: Ver. 1.0
 coverY: 0
+layout: landing
 ---
 
 # 아임웹 API 가이드
