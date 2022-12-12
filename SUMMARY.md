@@ -1,8 +1,8 @@
 # Table of contents
 
 * [아임웹 API 가이드](README.md)
+  * [개정 이력](getstarted/documents\_history.md)
   * [본 문서에 관하여](master/undefined.md)
-  * [문서 정보](getstarted/documents\_history.md)
 * [아임웹 API 소개](api.md)
 
 ## 시작하기 <a href="#getstarted" id="getstarted"></a>
