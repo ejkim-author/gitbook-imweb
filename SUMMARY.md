@@ -5,9 +5,9 @@
   * [본 문서에 관하여](master/undefined.md)
 * [아임웹 API 소개](api.md)
 
-## 시작하기 <a href="#getstarted" id="getstarted"></a>
+## 시작하기 전에 <a href="#getstarted" id="getstarted"></a>
 
-* [준비사항](getstarted/ticker.md)
+* [사전 준비 사항](getstarted/ticker.md)
 * [주의 및 제한사항](getstarted/cautions.md)
 * [액세스 토큰 발급받기](getstarted/token.md)
 * [API 호출 예제](getstarted/getexamples.md)
