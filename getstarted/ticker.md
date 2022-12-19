@@ -8,12 +8,12 @@ description: 본 섹션에서는 아임웹 API를 사용하기 위해 사전에 
 
 따라서  아임웹 API를 사용하려면 아래의 사전준비 사항이 필요합니다.
 
-{% content-ref url="step-1.md" %}
-[step-1.md](step-1.md)
+{% content-ref url="ticker/step-1.md" %}
+[step-1.md](ticker/step-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-2.md" %}
-[step-2.md](step-2.md)
+{% content-ref url="ticker/step-2.md" %}
+[step-2.md](ticker/step-2.md)
 {% endcontent-ref %}
 
 {% content-ref url="token.md" %}

@@ -1,4 +1,6 @@
-# API 호출 예제
+# API 요청 예제
+
+아임웹에서 제공하는 상품 판매, 구매 관리, 주문 처리 기능과 같은 다양한 API를 요청하기에 앞서, 아래와 같이 기본적인 정보를 조회하는 API 요청 예제를 진행합니다.
 
 {% tabs %}
 {% tab title="CURL" %}
@@ -23,13 +25,13 @@ curl_close($ch);
 
 ### 요청 데이터
 
-<table><thead><tr><th>항목</th><th data-type="select">타입</th><th>설명</th></tr></thead><tbody><tr><td>version</td><td></td><td><strong>요청 Rest API 버전</strong><br>가장 최신 버전을 사용하시려면 <strong>공백</strong> 또는 <strong>latest</strong>로 전달해주세요.</td></tr><tr><td>offset</td><td></td><td><p><strong>시작 페이지</strong></p><p>기본값 : 1 <br>목록 조회 API 요청 시 페이징 처리를 위한 데이터입니다.</p></td></tr><tr><td>limit</td><td></td><td><p><strong>페이지 사이즈</strong></p><p>기본값 : 25 <br>최대값 : 100 <br>목록 조회 API 요청 시 페이징 처리를 위한 데이터입니다.</p></td></tr><tr><td>...</td><td></td><td><p><strong>추가 요청 데이터</strong></p><p>각 기능에 맞는 추가 요청 데이터를 전달해주셔야 합니다.</p></td></tr></tbody></table>
+<table><thead><tr><th>항목</th><th data-type="select">타입</th><th>설명</th></tr></thead><tbody><tr><td>version</td><td></td><td><strong>요청 아이웹 API 버전</strong><br>가장 최신 버전을 사용하시려면 <strong>공백</strong> 또는 <strong>latest</strong>로 전달합니다.</td></tr><tr><td>offset</td><td></td><td><p><strong>시작 페이지</strong></p><p>기본값 : 1 <br>목록 조회 API 요청 시 페이징 처리를 위한 데이터입니다.</p></td></tr><tr><td>limit</td><td></td><td><p><strong>페이지 사이즈</strong></p><p>기본값 : 25 <br>최대값 : 100 <br>목록 조회 API 요청 시 페이징 처리를 위한 데이터입니다.</p></td></tr><tr><td>...</td><td></td><td><p><strong>추가 요청 데이터</strong></p><p>각 기능에 맞는 추가 요청 데이터를 전달해주셔야 합니다.</p></td></tr></tbody></table>
 
 ### 응답 데이터
 
-<table><thead><tr><th>항목</th><th data-type="select">타입</th><th>설명</th></tr></thead><tbody><tr><td>msg</td><td></td><td>API 응답 메세지</td></tr><tr><td>code</td><td></td><td>API 응답 코드</td></tr><tr><td>request_count</td><td></td><td>API 요청 가능 횟수</td></tr><tr><td>version</td><td></td><td>API 버전</td></tr><tr><td>data</td><td></td><td>API 응답 데이</td></tr></tbody></table>
+<table><thead><tr><th>항목</th><th data-type="select">타입</th><th>설명</th></tr></thead><tbody><tr><td>msg</td><td></td><td>API 응답 메시지</td></tr><tr><td>code</td><td></td><td>API 응답 코드</td></tr><tr><td>request_count</td><td></td><td>API 요청 가능 횟수</td></tr><tr><td>version</td><td></td><td>API 버전</td></tr><tr><td>data</td><td></td><td>API 응답 데이터</td></tr></tbody></table>
 
-#### 예시
+#### 응답 데이터예시
 
 ```javascript
 Array

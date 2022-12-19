@@ -7,14 +7,15 @@
 
 ## 시작하기 전에 <a href="#getstarted" id="getstarted"></a>
 
-* [사전 준비 사항](getstarted/ticker/README.md)
+* [사전 준비 사항](getstarted/ticker.md)
   * [Step 1: 사이트 개설하기](getstarted/ticker/step-1.md)
   * [Step 2: 키 발급받기](getstarted/ticker/step-2.md)
-  * [Step 3: 액세스 토큰 발급받기](getstarted/ticker/token.md)
-* [주의 및 제한사항](getstarted/cautions.md)
-* [API 호출 예제](getstarted/getexamples.md)
-* [API 응답 코드](getstarted/response\_code.md)
-* [API 오류 코드](getstarted/error\_code.md)
+  * [Step 3: 액세스 토큰 발급받기](getstarted/token.md)
+* [주의 및 제한 사항](getstarted/cautions.md)
+* [API 기본 이론](getstarted/api/README.md)
+  * [API 응답 코드](getstarted/api/response\_code.md)
+  * [API 에러 코드](getstarted/api/error\_code.md)
+* [API 요청 예제](getstarted/getexamples.md)
 
 ## 상품 <a href="#Items" id="Items"></a>
 

@@ -4,7 +4,7 @@ API Key와 Secret Key를 발급받아 인증 절차를 완료하면 액세스 �
 
 아래와 같은 API를 요청하여 액세스 토큰을 발급받습니다.
 
-{% swagger baseUrl="https://api.imweb.me" path="/v2/auth" method="get" summary="액세스 토큰 조회하기" %}
+{% swagger baseUrl="https://api.imweb.me" path="/v2/auth" method="get" summary="액세스 토큰 조회" %}
 {% swagger-description %}
 
 {% endswagger-description %}

@@ -7,6 +7,6 @@
 1] [아임웹](https://imweb.me) 사이트에 접속하여 회원 가입 및 로그인을 진행합니다.
 
 2] **내사이트** 메뉴에서 **\[무료 사이트 개설]**을 클릭합니다.\
-<img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
 3] 내 사이트에 사용할 템플릿 선택하고 **사이트 이름** 및 **URL** 기입과 같은 이후 개설 절차를 진행합니다.

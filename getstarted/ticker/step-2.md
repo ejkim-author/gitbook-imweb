@@ -9,10 +9,10 @@
 
     <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 3. 관리자 페이지에서 **환경설정 > 외부 서비스 연동 (API)**으로 이동합니다.\
-   ![](../../.gitbook/assets/image.png)\
+   ![](<../../.gitbook/assets/image (8).png>)\
 
 4.  **API key 발급받기**를 클릭하면 아래와 같은 **API Key**와 **Secret Key**가 생성된 것을 확인할 수 있습니다.\
 
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
