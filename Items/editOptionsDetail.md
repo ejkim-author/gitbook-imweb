@@ -1,6 +1,6 @@
 # 상품 상세 옵션 수정
 
-{% swagger method="patch" path="{상품번호}/options-details/{상세옵션번호}" baseUrl="https://api.imweb.me/v2/shop/products/" summary="수정 시 변경할 항목만 전달해주세요." %}
+{% swagger method="patch" path="{상품번호}/options-details/{상세옵션번호}" baseUrl="https://api.imweb.me/v2/shop/products/" summary="수정 시 변경할 항목만 전달하세요." %}
 {% swagger-description %}
 
 {% endswagger-description %}

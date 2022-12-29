@@ -1,6 +1,6 @@
 # 상품 구매평 수정
 
-{% swagger method="patch" path="/reviews/{구매평번호}" baseUrl="https://api.imweb.me/v2/shop" summary="수정 시 변경할 항목만 전달해주세요." %}
+{% swagger method="patch" path="/reviews/{구매평번호}" baseUrl="https://api.imweb.me/v2/shop" summary="수정 시 변경할 항목만 전달하세요." %}
 {% swagger-description %}
 
 {% endswagger-description %}

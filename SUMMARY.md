@@ -11,7 +11,7 @@
   * [Step 1: 사이트 개설하기](getstarted/ticker/step-1.md)
   * [Step 2: 키 발급받기](getstarted/ticker/step-2.md)
   * [Step 3: 액세스 토큰 발급받기](getstarted/token.md)
-* [주의 및 제한 사항](getstarted/cautions.md)
+* [주의 및 제약 사항](getstarted/cautions.md)
 * [API 기본 이론](getstarted/api/README.md)
   * [API 응답 코드](getstarted/api/response\_code.md)
   * [API 에러 코드](getstarted/api/error\_code.md)
@@ -20,7 +20,7 @@
 ## 상품 <a href="#Items" id="Items"></a>
 
 * [상품 조회](Items/get.md)
-* [상품 등록/수정](Items/add.md)
+* [상품 등록 및 수정](Items/add.md)
 * [상품 삭제](Items/delete.md)
 * [상품 옵션 조회](Items/getOptions.md)
 * [상품 옵션 수정](Items/editOptions.md)

@@ -14,4 +14,4 @@
 
 ## 응답 데이터
 
-<table><thead><tr><th>항목</th><th data-type="select">타입</th><th>설명</th></tr></thead><tbody><tr><td>category_id</td><td></td><td>카테고리ID</td></tr><tr><td>category</td><td></td><td>카테고리</td></tr></tbody></table>
+<table><thead><tr><th>항목</th><th data-type="select">타입</th><th>설명</th></tr></thead><tbody><tr><td>category_id</td><td></td><td>카테고리 ID</td></tr><tr><td>category</td><td></td><td>카테고리</td></tr></tbody></table>
