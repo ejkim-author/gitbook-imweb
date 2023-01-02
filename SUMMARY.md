@@ -15,7 +15,7 @@
 * [API 기본 이론](getstarted/api/README.md)
   * [API 응답 코드](getstarted/api/response\_code.md)
   * [API 에러 코드](getstarted/api/error\_code.md)
-* [API 요청 예제](getstarted/getexamples.md)
+* [API 사용 예제](getstarted/getexamples.md)
 
 ## 상품 <a href="#Items" id="Items"></a>
 
@@ -61,4 +61,4 @@
 ## 부록 <a href="#appendix" id="appendix"></a>
 
 * [지원 택배사](appendix/undefined.md)
-* [상품정보제공고시](appendix/undefined-1.md)
+* [상품 정보 제공 고시](appendix/undefined-1.md)
